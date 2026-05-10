@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/knowledge-base/',
   title: "xiaf的文档站",
   description: "A VitePress Site",
   themeConfig: {
