@@ -17,9 +17,11 @@ docs/.vitepress/cache/
 .DS_Store
 Thumbs.db
 
-# Obsidian cache
+# Obsidian
 .obsidian/workspace.json
-docs/.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/workspace-mobile.json
+
 
 # Temporary
 temp/
