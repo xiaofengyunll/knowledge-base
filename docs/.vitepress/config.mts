@@ -15,16 +15,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '示例', link: '/markdown-examples' }
     ],
 
     sidebar: [
       {
-        text: '示例',
+        text: 'docker',
         collapsed: true,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '容器化技术', link: '/docker/容器化技术.md' },
         ]
       }
     ],

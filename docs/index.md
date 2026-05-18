@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /markdown-examples
+      link: ./docker/容器化技术
     - theme: alt
       text: 项目实践
       link: /api-examples
