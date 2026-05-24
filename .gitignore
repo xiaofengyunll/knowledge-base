@@ -18,9 +18,9 @@ docs/.vitepress/cache/
 Thumbs.db
 
 # Obsidian
-.obsidian/workspace.json
-.obsidian/cache/
-.obsidian/workspace-mobile.json
+docs/.obsidian/workspace.json
+docs/.obsidian/cache/
+docs/.obsidian/workspace-mobile.json
 
 
 # Temporary
