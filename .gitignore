@@ -21,8 +21,22 @@ Thumbs.db
 docs/.obsidian/workspace.json
 docs/.obsidian/cache/
 docs/.obsidian/workspace-mobile.json
+docs/.obsidian/trash/
+docs/.obsidian/plugins/
 
+# Local tool state
+docs/.claudian/
 
 # Temporary
 temp/
 tmp/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Package manager logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
